@@ -9,6 +9,6 @@
 将下面提示词交给你的 Agent（如 OpenClaw）即可：
 
 ```text
-你是 OpenClaw。请从 https://skills-hub.cc 安装并启用 dev-deploy skill。
+你是 OpenClaw。请从 https://github.com/samueli/skills-hub 安装并启用 dev-deploy skill。
 安装完成后，简要确认已就绪，并提示我如何开始使用。
 ```
