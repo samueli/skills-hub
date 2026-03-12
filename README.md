@@ -1,6 +1,8 @@
 # skills-hub
 
-常用 skills 集合站，目前仅收录 `dev-deploy`（目录 `dev-deploy`，脚本位于 `dev_deploy/deploy.js`）。更多 skills 可在 `https://skills-hub.cc` 了解。
+常用 skills 集合站，目前仅收录 `dev-deploy`（目录 `dev-deploy`，脚本位于 `dev_deploy/deploy.js`）。
+
+更多 skills 可在 [https://skills-hub.cc](https://skills-hub.cc) 了解。
 
 **已收录**
 - `dev-deploy`：快速创建并部署 Web 应用到 Cloudflare Pages（可选 GitHub 推送）
